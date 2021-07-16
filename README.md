@@ -1,15 +1,15 @@
 <h1><img src="https://media.giphy.com/media/jMHfZbVnPjR7hlatmx/giphy.gif" width="50"> Hi, I'm Daniel! <img src="https://media.giphy.com/media/jMHfZbVnPjR7hlatmx/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/4T1C5WDMjg8u9sbgcT/giphy.gif" width="240">
-<br/>
 <p><em> Student Software Developer @ <a href="https://www.ibm.com">IBM</a> 
-</em></p>
+</em> <img src="https://media.giphy.com/media/7JQIe39F9KsCNN9f99/giphy.gif" width="50">
+<br/></p>
+
 
 <a href="https://twitter.com/RdzCore" target="_blank"><img src="https://img.shields.io/twitter/follow/RdzCore?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&label=Twitter" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/daniel-rodríguez-contreras/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/rdzcore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ### <img src="https://media.giphy.com/media/PLIuwX8r3LoqQ8ns6k/giphy.gif" width="50"> More about me... 
-
+---
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -30,6 +30,15 @@ const aboutMe = {
    challenge: "Be a FIT Software Developer",
 };
 ```
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/rdzcore)
+
+---
 
 <!--
 **DaniRdz/DaniRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
