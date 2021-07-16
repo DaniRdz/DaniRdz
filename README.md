@@ -1,4 +1,8 @@
 <h1><img src="https://media.giphy.com/media/jMHfZbVnPjR7hlatmx/giphy.gif" width="50"> Hi, I'm Daniel! <img src="https://media.giphy.com/media/jMHfZbVnPjR7hlatmx/giphy.gif" width="50"></h1>
+<img align='right' src="https://media.giphy.com/media/4T1C5WDMjg8u9sbgcT/giphy.gif" width="240">
+<br/>
+<p><em> Student Software Developer @ <a href="https://www.ibm.com">IBM</a> 
+</em></p>
 
 <a href="https://twitter.com/RdzCore" target="_blank"><img src="https://img.shields.io/twitter/follow/RdzCore?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&label=Twitter" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/daniel-rodríguez-contreras/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
