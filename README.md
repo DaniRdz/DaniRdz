@@ -1,5 +1,5 @@
 <h1><img src="https://media.giphy.com/media/jMHfZbVnPjR7hlatmx/giphy.gif" width="50"> Hi, I'm Daniel! <img src="https://media.giphy.com/media/jMHfZbVnPjR7hlatmx/giphy.gif" width="50"></h1>
-<p><em> Student Software Developer @ <a href="https://www.ibm.com">IBM</a> 
+<p><em> Application Developer @ <a href="https://www.ibm.com">IBM</a> 
 </em> <img src="https://media.giphy.com/media/7JQIe39F9KsCNN9f99/giphy.gif" width="50">
 <br/></p>
 
@@ -13,7 +13,8 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java],
+   code: [Javascript, HTML, CSS, Python, Java, Bash],
+   os: [windows, linux],
    technologies: {
       frontEnd: {
          js: ["React", "NextJs, Redux"],
